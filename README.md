@@ -39,3 +39,8 @@
 
 ### ❤ Views and Followers
 ![](https://komarev.com/ghpvc/?username=vrajpatel001)![](https://img.shields.io/github/followers/vrajpatel001?label=Followers&style=social)
+
+### Index of Blogs
+
+1. [ASIC Domain Internship](./Intern_ASIC.md)
+2. [Polynomial Addition](./Polynomial_Addition.md)
