@@ -42,5 +42,5 @@
 
 ### Index of Blogs
 
-1. [ASIC Domain Internship](./Intern_ASIC.md)
-2. [Polynomial Addition](./Polynomial_Addition.md)
+1. [ASIC Domain Internship](https://vrajpatel001.github.io/ASIC_Intern/Intern_ASIC.html)
+2. [Polynomial Addition](https://vrajpatel001.github.io/Practise_DSA_CP/Polynomial_Addition.html)
