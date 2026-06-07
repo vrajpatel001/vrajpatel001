@@ -9,10 +9,9 @@
 - 🔭 I’m currently working on **Self Driving Car Simulation**
 
 - 👀 I’m interested in
-    * **Data Structures and Algorithms**
     * **Data Science and Machine Learning**
 
-- 🌱 I’m pursuing **B.Tech in 'Electronics and Communication Engineering'** with **Minors in 'Computer Science and Engineering'**
+- 🌱 Degree of **B.Tech in 'Electronics and Communication Engineering'** with **Minors in 'Computer Science and Engineering'**
 
 ### 🚀 Tools and Technologies:
 
@@ -28,17 +27,8 @@
 * ***8051 Micro-controller Assembly***
 
 ---
-### 📊 My Github Stats
-![vrajpatel001 stats](https://github-readme-stats.vercel.app/api?username=vrajpatel001&hide=contribs,issues,prs&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
-![repo language used](https://github-readme-stats.vercel.app/api/top-langs/?username=vrajpatel001&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
-
----
-
 ### Connect with me:
-[![linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/vraj-patel-5170a6208)
-
-### ❤ Views and Followers
-![](https://komarev.com/ghpvc/?username=vrajpatel001)![](https://img.shields.io/github/followers/vrajpatel001?label=Followers&style=social)
+[![linkedin](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/vrajpatel001/)
 
 ### Index of Blogs
 
